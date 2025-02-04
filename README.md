@@ -5,7 +5,7 @@ This repository contains codes for assignments and projects from the **Quantitat
 
 ## Overview  
 
-The course covers key quantitative techniques, including economic modeling, estimation, optimization, and simulation-based methods. The repository provides code implementations in Python for practical learning and application.  
+The course covers key quantitative techniques, including economic modeling, estimation, optimization, and simulation-based methods. The repository contains homework and project assignments with code implementations in Python.
 
 ## Topics Covered  
 
