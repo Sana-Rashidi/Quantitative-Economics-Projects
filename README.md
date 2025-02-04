@@ -2,14 +2,6 @@
 
 This repository contains codes for assignments and projects from the Quantitative Economics course. This advanced course is designed for PhD students to develop proficiency in quantitative, computational, and numerical methods used in micro- and macroeconomics.  
 
-## Table of Contents  
-
-- [Overview](#overview)  
-- [Topics Covered](#topics-covered)  
-- [Requirements](#requirements)  
-- [Usage](#usage)  
-- [Contributing](#contributing)  
-- [License](#license)  
 
 ## Overview  
 
