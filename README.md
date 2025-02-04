@@ -1,11 +1,11 @@
 # Quantitative Economics Assignments & Projects  
 
-This repository contains codes for assignments and projects from the Quantitative Economics course. This advanced course is designed for PhD students to develop proficiency in quantitative, computational, and numerical methods used in micro- and macroeconomics.  
+This repository contains codes for assignments and projects from the **Quantitative Economics** course. This advanced course is designed for PhD students to develop proficiency in quantitative, computational, and numerical methods used in micro- and macroeconomics.  
 
 
 ## Overview  
 
-The course covers key quantitative techniques, including economic modeling, estimation, optimization, and simulation-based methods. The repository provides code implementations in **Python** for practical learning and application.  
+The course covers key quantitative techniques, including economic modeling, estimation, optimization, and simulation-based methods. The repository provides code implementations in Python for practical learning and application.  
 
 ## Topics Covered  
 
